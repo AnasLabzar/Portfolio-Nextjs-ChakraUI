@@ -2,23 +2,28 @@ import styled from '@emotion/styled'
 
 const ListButton = styled.button`
 
-    > button {
+    opacity: .8;
+    display: flex;
+    flex-direction: column;
+    gap: 6px; 
+
+    > a > button {
         display: flex; 
         text-align: left;
-        gap: 10px;
+        gap: 8px;
         height: fit-content;
         padding: 0;
     }
 
-    > button > p {
+    > a > button > h3 {
         font-size: 14px;
-        font-weight: 500;
+        text-align: left;
+    } 
+
+    > a > button:hover {
+        opacity: .5;
     }
 
-    &:hover {
-        transform: rotate(20deg);
-
-    }
 `
 
 export default ListButton;
