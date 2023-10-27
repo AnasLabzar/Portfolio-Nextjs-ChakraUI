@@ -35,12 +35,6 @@ import {
             <Meta>Stack</Meta>
             <span>PHP, Wordpress, Elementor</span>
           </ListItem>
-          <ListItem>
-            <Meta>Blogpost</Meta>
-            <Link href="https://www.google.co.ma/travel/hotels/entity/ChoQj7SeoOnpl4bBARoNL2cvMTFrcHJxbjF4dBAC?utm_campaign=sharing&utm_medium=link&utm_source=htls&ved=0CAAQ5JsGahcKEwiwjNW_o5aCAxUAAAAAHQAAAAAQBw&ts=CAEaIAoCGgASGhIUCgcI5w8QCxgbEgcI5w8QCxgcGAEyAhAAKgQKABoA">
-              Furnished Tourist Apartment With 3 Bedrooms And With Swimming Pool, Can Accommodate 6 People <ExternalLinkIcon mx="2px" />
-            </Link>
-          </ListItem>
         </List>
         <WorkImage src="/images/works/Lepalace/lepalace-2.png" alt="Le Palace" />
         <WorkImage src="/images/workItem-LePalace.png" alt="Le Palace" />

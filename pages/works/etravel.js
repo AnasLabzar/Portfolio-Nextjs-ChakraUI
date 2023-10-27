@@ -21,7 +21,7 @@ const Work = () => (
         E Travel Model <Badge>2020</Badge>
       </Title>
       <P>
-        Model Adobe xd E travel platform by inspiration from Airbnb platform.
+        Model Adobe xd E-Travel platform with inspiration from Airbnb platform.
       </P>
       <List ml={4} my={4}>
         <ListItem>
@@ -52,10 +52,10 @@ const Work = () => (
         <Heading as="h3" fontSize="20px" my="10px">
           This is conception model <Badge>Adobe XD</Badge>
         </Heading>
-        <WorkImage src="/images/works/etravel/etravel-3.png" alt="E Travel" />
+        <WorkImage src="/images/works/Etravel/etravel-3.png" alt="E Travel" />
         <Line />
       </Box>
-      <WorkImage src="/images/works/etravel/etravel-2.png" alt="E Travel" />
+      <WorkImage src="/images/works/Etravel/etravel-2.png" alt="E Travel" />
       <WorkImage src="/images/workItem-Etravel.png" alt="E Travel" />
       {/* <AspectRatio maxW="640px" ratio={1.7} my={4}>
           <iframe
